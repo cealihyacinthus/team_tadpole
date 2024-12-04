@@ -48,11 +48,21 @@ header {
     width: 100%;
     display:  inline-flex;
     justify-content: space-between;
+    flex-wrap: wrap;
+   
     
 
 }
 .flex-nav-list {
     display: flex;
     gap: 2rem;
+}
+header {
+    background-color: aquamarine;
+    padding: 2rem;
+}
+
+span {
+    color : brown
 }
 
