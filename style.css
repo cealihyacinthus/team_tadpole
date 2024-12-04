@@ -49,6 +49,8 @@ header {
     display:  inline-flex;
     justify-content: space-between;
     flex-wrap: wrap;
+
+    font-size: 2rem;
 }
 .flex-nav-list {
   display: flex;
